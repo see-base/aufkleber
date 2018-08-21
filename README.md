@@ -1,6 +1,7 @@
 # Grafik 
-Grafiken, Aufkleber und Logos des Hackerspaces [see-base](https://see-base.de) in ÜBERLINgen gibt es in diesem Git Repository.
 
-# Vektorgrafik
-Bitte keine Pixelgrafiken Pushen. Dafür gibt es die Cloud.
-Vectorgrafiken wie SVG sind hier gewünscht!
+Wir sind Umgezogen, in ein selber gehostetes gitea:
+
+[gitea.see-base.de](https://gitea.see-base.de/see-base/see-base_grafik)
+
+![see-base](https://see-base.de/images/see-base.svg "see-base")
